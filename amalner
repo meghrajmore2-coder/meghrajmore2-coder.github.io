@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Welcome to Amalner</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Welcome to Amalner</h1>
+    <p>The City of Education, Culture & Innovation</p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#places">Places</a>
+    <a href="#links">Useful Links</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <main>
+    <section id="about">
+      <h2>About Amalner</h2>
+      <p>Amalner is a vibrant town in Jalgaon District, Maharashtra. It holds historical importance as the birthplace of Wipro's first factory and is well known for its educational institutions and cultural heritage. The Bori River adds to its charm, flowing gracefully along its edge.</p>
+    </section>
+
+    <section id="places">
+      <h2>Famous Places</h2>
+      <ul>
+        <li>Wipro's First Factory</li>
+        <li>Bori River</li>
+      </ul>
+    </section>
+
+    <section id="links">
+      <h2>Useful Links</h2>
+      <ul>
+        <li><a href="https://jalgaon.gov.in/" target="_blank">Jalgaon District Official Website</a></li>
+        <li><a href="https://msrtc.maharashtra.gov.in/" target="_blank">MSRTC Bus Timetable</a></li>
+        <li><a href="https://www.indianrail.gov.in/enquiry/" target="_blank">Indian Railways Enquiry</a></li>
+        <li><a href="https://maharashtra.gov.in/" target="_blank">Maharashtra Government Portal</a></li>
+      </ul>
+    </section>
+
+    <section id="contact">
+      <h2>Contact</h2>
+      <p>Have suggestions or want to contribute information about Amalner?  
+      Drop an email at: <a href="mailto:info@amalner.in">info@amalner.in</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Amalner.in | Designed with ❤️ for our city</p>
+  </footer>
+</body>
+</html>
